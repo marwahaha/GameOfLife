@@ -19,7 +19,7 @@ The "play/pause" button will cause the world's state to continuously update or p
 Use the slide bar to control the speed of the simulation.
 
 ### The Rules
-This program is designed to simulate a variety of "life-like" automata, meaning that the next state of a cell is determined by the state of the 8 adjacent cells. With Conway's original rules, a live cell will stay alive ("survive") if the there are 2 or 3 live adjacent live cells, and a dead cell will become alive (be "born") if it has exactly 3 adjacent live cells. This rule is abreviated as (B3/S23). 10 rules that have been studied have been programmed in. Use the drop-down menu to select which set of rules you would like the world to play by. Different rules result in very different behavior!
+This program is designed to simulate a variety of "life-like" automata, meaning that the next state of a cell is determined by the state of the 8 adjacent cells. With Conway's original rules, a live cell will stay alive ("survive") if the there are 2 or 3 live adjacent live cells, and a dead cell will become alive (be "born") if it has exactly 3 adjacent live cells. This rule is abbreviated as (B3/S23). 10 rules that have been studied have been programmed in. Use the drop-down menu to select which set of rules you would like the world to play by. Different rules result in very different behavior!
 
 ### Patterns
 Even given random initial conditions, the game of life will produce interesting results. However, the more interesting a pattern, the less common it is. Some interesting patterns have been programmed in. Hotkeys for these patterns are displayed on the control pannel. Simply press a hotkey corresponding to a pattern and click on the board where you would like to place the pattern.
